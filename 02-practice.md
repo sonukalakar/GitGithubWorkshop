@@ -1,6 +1,6 @@
 # Practice
 
-This section includes exercises to practice basic Git operations you might do every day. We plan to provide time for students to go through this material during the workshop session.
+This  includes exercises to practice basic Git operations you might do every day. We plan to provide time for students to go through this material during the workshop session.
 
 - [ ] Make and clone a new repo on Github
 - [ ] Edit files directly on Github
